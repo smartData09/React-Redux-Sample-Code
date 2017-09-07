@@ -1,1 +1,1 @@
-# React-Redux-Sample-Code
+# smartData - React-Redux-Sample-Code
